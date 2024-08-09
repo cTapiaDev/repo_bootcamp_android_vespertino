@@ -1,7 +1,8 @@
 # Bootcamp Desarrollo de Aplicaciones Móviles Android
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
-- [Clase 4 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_4)
+- [Clase 3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_3)
+- [Clase 4 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_4)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
@@ -35,3 +36,4 @@
 ### Diapositivas M3
 - [M3 - Bases de Datos Relacionales](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
 - [M3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%202%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
+- [M3 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%203%20-%20CRUD.pdf)
