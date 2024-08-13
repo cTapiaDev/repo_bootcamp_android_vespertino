@@ -4,6 +4,7 @@
 - [Clase 3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_3)
 - [Clase 4 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_4)
 - [Clase 5 - Ejercicios Select - Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_5)
+- [Clase 6 - Relaciones entre Tablas - Ejercicios JOIN](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_6)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
@@ -39,3 +40,4 @@
 - [M3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%202%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
 - [M3 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%203%20-%20CRUD.pdf)
 - [M3 - Relaciones y Normalización](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%204%20-%20%20RELACIONES%20Y%20NORMALIZACIÓN.pdf)
+- [M3 - Relaciones Entre Tablas](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%205%20-%20%20RELACIONES%20ENTRE%20TABLAS.pdf)
