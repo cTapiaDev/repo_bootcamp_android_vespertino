@@ -15,3 +15,4 @@ worked in each building */
 SELECT building, SUM(years_employed) AS total_anios_trabajados
 FROM employees
 GROUP BY building;
+
