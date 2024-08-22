@@ -8,6 +8,7 @@
 - [Clase 7 - Ejercicios JOIN - Subconsulta](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_7)
 - [Clase 8 - Transacciones](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_8)
 - [Clase 10 - Ejercicios Select SQLBolt](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_10)
+- [Clase 11 - Ejercicios SQLBolt partTwo](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_11)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
