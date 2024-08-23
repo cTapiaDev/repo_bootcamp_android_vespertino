@@ -9,6 +9,7 @@
 - [Clase 8 - Transacciones](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_8)
 - [Clase 10 - Ejercicios Select SQLBolt](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_10)
 - [Clase 11 - Ejercicios SQLBolt partTwo](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_11)
+- [Clase 12 - Vistas, Procesos Almacenados y Triggers](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_12)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
@@ -47,3 +48,5 @@
 - [M3 - Relaciones Entre Tablas](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%205%20-%20%20RELACIONES%20ENTRE%20TABLAS.pdf)
 - [M3 - Manipulación de Datos](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%206%20-%20%20MANIPULACIÓN%20DE%20DATOS.pdf)
 - [M3 - Transaccionalidad en las Operaciones](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%207%20-%20TRANSACCIONALIDAD%20EN%20LAS%20OPERACIONES.pdf)
+- [M3 - Modelo Entidad-Relación](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%208%20-%20MODELO%20ENTIDAD%20RELACION.pdf)
+- [M3 - Vistas, Procesos y Triggers](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%209%20-%20VISTAS%2C%20PROCEDIMIENTOS%20Y%20TRIGGERS.pdf)
