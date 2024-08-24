@@ -41,12 +41,12 @@
 
 --------
 ### Diapositivas M3
-- [M3 - Bases de Datos Relacionales](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
-- [M3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%202%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
-- [M3 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%203%20-%20CRUD.pdf)
-- [M3 - Relaciones y Normalización](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%204%20-%20%20RELACIONES%20Y%20NORMALIZACIÓN.pdf)
-- [M3 - Relaciones Entre Tablas](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%205%20-%20%20RELACIONES%20ENTRE%20TABLAS.pdf)
-- [M3 - Manipulación de Datos](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%206%20-%20%20MANIPULACIÓN%20DE%20DATOS.pdf)
-- [M3 - Transaccionalidad en las Operaciones](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%207%20-%20TRANSACCIONALIDAD%20EN%20LAS%20OPERACIONES.pdf)
-- [M3 - Modelo Entidad-Relación](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%208%20-%20MODELO%20ENTIDAD%20RELACION.pdf)
-- [M3 - Vistas, Procesos y Triggers](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/M3%20-%20CLASE%209%20-%20VISTAS%2C%20PROCEDIMIENTOS%20Y%20TRIGGERS.pdf)
+- [M3 - Bases de Datos Relacionales](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
+- [M3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%202%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
+- [M3 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%203%20-%20CRUD.pdf)
+- [M3 - Relaciones y Normalización](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%204%20-%20%20RELACIONES%20Y%20NORMALIZACIÓN.pdf)
+- [M3 - Relaciones Entre Tablas](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%205%20-%20%20RELACIONES%20ENTRE%20TABLAS.pdf)
+- [M3 - Manipulación de Datos](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%206%20-%20%20MANIPULACIÓN%20DE%20DATOS.pdf)
+- [M3 - Transaccionalidad en las Operaciones](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%207%20-%20TRANSACCIONALIDAD%20EN%20LAS%20OPERACIONES.pdf)
+- [M3 - Modelo Entidad-Relación](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%208%20-%20MODELO%20ENTIDAD%20RELACION.pdf)
+- [M3 - Vistas, Procesos y Triggers](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%209%20-%20VISTAS%2C%20PROCEDIMIENTOS%20Y%20TRIGGERS.pdf)
