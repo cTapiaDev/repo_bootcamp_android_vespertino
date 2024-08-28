@@ -3,7 +3,7 @@
 ## [Ejercicios Bootcamp Android 2024](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
--[Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
+- [Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 - [Clase 3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_3)
