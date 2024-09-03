@@ -6,6 +6,7 @@
 - [Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
 - [Clase 3 - Interfaz Gráfica - ConstraintLayout - Strings - Colors - Guidelines](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/clase_interfaz)
 - [Clase 4 - Event OnClick - FontFamily - Notificación Toast - CheckBox/RadioButtons](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/onClick)
+- [Clase 5 - Toolbar / Fragments](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/clase_fragments/app/src/main/java/cl/bootcamp/clasefragments)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 - [Clase 3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_3)
