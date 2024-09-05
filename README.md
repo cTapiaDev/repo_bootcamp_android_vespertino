@@ -8,6 +8,7 @@
 - [Clase 4 - Event OnClick - FontFamily - Notificación Toast - CheckBox/RadioButtons](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/onClick)
 - [Clase 5 - Toolbar / Fragments](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/clase_fragments/app/src/main/java/cl/bootcamp/clasefragments)
 - [Clase 6 - RecyclerView Parte 1 - Diseño Elementos](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/recyclerview/app/src/main/res/layout)
+- [Clase 7 - RecyclerView Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/recyclerview/app/src)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 - [Clase 3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_3)
