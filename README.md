@@ -9,6 +9,7 @@
 - [Clase 5 - Toolbar / Fragments](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/clase_fragments/app/src/main/java/cl/bootcamp/clasefragments)
 - [Clase 6 - RecyclerView Parte 1 - Diseño Elementos](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/recyclerview/app/src/main/res/layout)
 - [Clase 7 - RecyclerView Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/recyclerview/app/src)
+- [Clase 8 - ViewBinding](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/onClick) - [Navigation Component](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/navigation_component)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 - [Clase 3 - Consultas Select](https://github.com/cTapiaDev/repo_bootcamp_android_vespertino/tree/main/CLASES/MODULO_03/CLASE_3)
