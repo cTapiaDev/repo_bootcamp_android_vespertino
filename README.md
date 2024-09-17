@@ -2,6 +2,9 @@
 ----------
 ## [Ejercicios Bootcamp Android 2024](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
+## Módulo 4 - Arquitectura y Ciclo de Vida de Componentes Android
+- [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
+----------
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
 - [Clase 3 - Interfaz Gráfica - ConstraintLayout - Strings - Colors - Guidelines](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo4/clase_interfaz)
