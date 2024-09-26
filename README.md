@@ -7,6 +7,7 @@
 - [Clase 2 - Fundamentos en Kotlin, Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin)
 - [Clase 3 - Programación funcional](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin/ProgramacionFuncional.kt) - [Iniciando en Jetpack Compose](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin/MainActivity.kt)
 - [Clase 4 - Components](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_components) - [Navegación](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_navegacion)
+- [Clase 5 - Intermcambio de datos entre vistas](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_navegacion) - [App Descuentos, Parte 1 (Diseño)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_app_descuentos)
 ----------
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
