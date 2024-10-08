@@ -2,7 +2,7 @@
 ----------
 ## [Ejercicios Bootcamp Android 2024](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
-## Módulo 4 - Arquitectura y Ciclo de Vida de Componentes Android
+## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
 - [Clase 2 - Fundamentos en Kotlin, Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin)
 - [Clase 3 - Programación funcional](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin/ProgramacionFuncional.kt) - [Iniciando en Jetpack Compose](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin/MainActivity.kt)
