@@ -16,6 +16,7 @@
 - [Clase 11 - OnBoarding App - Parte 1](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_on_boarding)
 - [Clase 12 - OnBoarding App - Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_on_boarding)
 - [Clase 13 - BottomBar e Intents](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_components_intents)
+- [Clase 14 - String variables, cambio de Idioma en la app](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_traduccion)
 ----------
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
