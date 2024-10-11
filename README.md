@@ -19,6 +19,7 @@
 - [Clase 14 - String variables, cambio de Idioma en la app](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_traduccion)
 - [Clase 15 - App Translator](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_traduccion/app/src/main/java/cl/bootcamp/clasetraduccion/translator)
 - [Clase 16 - App Camera](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_app_camara)
+- [Clase 17 - App Voice](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clase_traduccion)
 ----------
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 2 - Layouts](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo4/primerProyecto/app/src/main/res/layout/activity_main.xml)
