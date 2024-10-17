@@ -2,6 +2,9 @@
 ----------
 ## [Ejercicios Bootcamp Android 2024](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
+## Módulo 6 - Desarrollo de Aplicaciones Empresariales Android
+- [Clase 1 - App Wish List (Frontend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_wishlist/app/src/main)
+----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
 - [Clase 2 - Fundamentos en Kotlin, Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo5/clases_fundamentos/app/src/main/java/cl/bootcamp/clasesfundamentoskotlin)
