@@ -6,6 +6,7 @@
 - [Clase 1 - App Wish List (Frontend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_wishlist/app/src/main)
 - [Clase 2 - App Wish List (Backend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_wishlist/app/src/main)
 - [Clase 3 - App Games (Retrofit API)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_games)
+- [Clase 4 - App Games (Retrofit API) | Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_games)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
