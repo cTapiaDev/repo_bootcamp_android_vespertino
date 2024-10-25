@@ -9,6 +9,7 @@
 - [Clase 4 - App Games (Retrofit API) | Parte 2](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_games)
 - [Clase 5 - App Games (Retrofit API) | Parte 3](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_games)
 - [Clase 6 - App Category](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_category)
+- [Clase 7 - App Maps - Geolocalización](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_maps)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
