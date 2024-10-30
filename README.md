@@ -12,6 +12,7 @@
 - [Clase 7 - App Maps - Geolocalización](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_maps)
 - [Clase 8 - App Random User - Integrador (Backend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_integrador_user)
 - [Clase 9 - App Random User - Integrador (Frontend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_integrador_user)
+- [Clase 10 - App Random User - Test Unitario](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_integrador_user/app/src/test)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
