@@ -20,6 +20,7 @@
 - [Clase 13 - App Wallet (Backend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_integrador_wallet)
 - [Clase 14 - App Wallet](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_integrador_wallet)
 - [Clase 15 - App Gemini ChatBot](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_gemini_api)
+- [Clase 16 - App Notes Firebase](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_notes_firebase)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_projects_vespertino/blob/main/Modulo05/app/src/main/java/cl/bootcamp/claseinicialkotlin/Main.kt)
