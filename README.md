@@ -4,6 +4,9 @@
 ----------
 - [Clase Reforzamiento Certificación](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/integrador_reforzamiento)
 ----------
+## Módulo 7 - Desarrollo de Portafolio de un Producto Digital
+- [Clase 1 - App Heroes (Backend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo7/integrador_heroes)
+----------
 ## Módulo 6 - Desarrollo de Aplicaciones Empresariales Android
 - [Clase 1 - App Wish List (Frontend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_wishlist/app/src/main)
 - [Clase 2 - App Wish List (Backend)](https://github.com/cTapiaDev/android_studio_projects_vespertino/tree/main/Modulo6/clase_app_wishlist/app/src/main)
